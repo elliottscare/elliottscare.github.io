@@ -1557,6 +1557,11 @@ Modal in center
 
 
 @media (max-width: 501px) {
+	h1 {
+	
+		font-size: 40px; 
+	    line-height: 36px;
+	}
 }
 
  
@@ -1579,11 +1584,7 @@ Modal in center
 
 
 @media (max-width: 375px) {
-	h1 {
 	
-		font-size: 40px; 
-	    line-height: 36px;
-	}
 }
 
 /*-- ======================================================================================================================== 
